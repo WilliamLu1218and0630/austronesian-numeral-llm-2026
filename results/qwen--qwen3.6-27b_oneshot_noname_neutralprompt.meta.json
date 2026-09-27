@@ -1,0 +1,12 @@
+{
+  "model": "qwen/qwen3.6-27b",
+  "provider": "groq",
+  "params": "27B",
+  "rpd": 1000,
+  "condition": "oneshot_noname",
+  "prompt_variant": "neutral",
+  "thinking": "off",
+  "reasoning_effort": "none",
+  "temperature": 0,
+  "notes": null
+}

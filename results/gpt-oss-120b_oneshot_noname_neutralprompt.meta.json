@@ -1,0 +1,12 @@
+{
+  "model": "gpt-oss-120b",
+  "provider": "cerebras",
+  "params": "120B-MoE",
+  "rpd": null,
+  "condition": "oneshot_noname",
+  "prompt_variant": "neutral",
+  "thinking": "off",
+  "reasoning_effort": "low",
+  "temperature": 0,
+  "notes": null
+}

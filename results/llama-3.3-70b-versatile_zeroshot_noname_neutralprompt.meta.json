@@ -1,0 +1,12 @@
+{
+  "model": "llama-3.3-70b-versatile",
+  "provider": "groq",
+  "params": "70B",
+  "rpd": 1000,
+  "condition": "zeroshot_noname",
+  "prompt_variant": "neutral",
+  "thinking": "off",
+  "reasoning_effort": null,
+  "temperature": 0,
+  "notes": null
+}

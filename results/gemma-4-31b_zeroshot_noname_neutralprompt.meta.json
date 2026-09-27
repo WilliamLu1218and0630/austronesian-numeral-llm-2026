@@ -1,0 +1,12 @@
+{
+  "model": "gemma-4-31b",
+  "provider": "cerebras",
+  "params": "31B",
+  "rpd": null,
+  "condition": "zeroshot_noname",
+  "prompt_variant": "neutral",
+  "thinking": "off",
+  "reasoning_effort": null,
+  "temperature": 0,
+  "notes": null
+}
